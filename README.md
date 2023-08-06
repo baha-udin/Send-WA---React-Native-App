@@ -1,1 +1,1 @@
-Send WA is Open Source project. As a person, sometimes we don't have save number other people when must message using WhatsApp. Using this App, you can message other people without save their numbers. Just input number, then you can message them
+Send WA is an Open Source project. As individuals, sometimes we don't have to save other people's numbers when we must send messages using WhatsApp. By using this App, you will be able to message other people without saving their numbers. Simply input the number, and you can message them.
